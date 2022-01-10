@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Badge } from '@material-ui/core'
 import { Search, ShoppingCartOutlined } from '@material-ui/icons'
 // import styles from '../pages/styledComponent/Home.module.css'
@@ -56,9 +56,9 @@ const MenuItem = styled.div`
     margin-left: 2rem;
 ` 
     
-    function Navbar() {
-        return (
-            <Container>
+const Navbar = () => {
+    return (
+        <Container>
             <Wraper>
                 <Left>
                     <Lang>EN</Lang>
