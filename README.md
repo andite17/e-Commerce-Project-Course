@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 [youtube](https://www.youtube.com/watch?v=c1xTDSIXit8)
 
-[video](2:00:08)
+[video](2:36:40)
 
 ## Tech Stack
 
